@@ -9,7 +9,7 @@
   "author": "DeltaCrash",
   "license": "ISC",
   "dependencies": {
-          "@whiskeysockets/baileys": "^6.6.0",
+          "@whiskeysockets/baileys": "^6.7.1",
     "@adiwajshing/keyed-db": "^0.2.4",
     "api-dylux": "^1.8.4",
     "awesome-phonenumber": "^2.64.0",
